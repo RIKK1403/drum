@@ -1,0 +1,68 @@
+#container {
+    background-color: aqua;
+    padding: 10px;
+    width: 650px;
+    height: 450px;
+    position: relative;
+}
+
+.crash {
+    position: absolute;
+    left: 70px;
+    top: 80px;
+    z-index: 100;
+}
+
+.splash {
+    position: absolute;
+    left: 70px;
+    top: 245px;
+}
+
+.snare2 {
+    position: absolute;
+    left: 180px;
+    top: 170px;
+    z-index: 99;
+}
+
+.snare {
+    position: absolute;
+    left: 180px;
+    top: 260px;
+}
+
+.kick {
+    position: absolute;
+    left: 214px;
+    top: 102px;
+    z-index: 98;
+}
+
+.ride {
+    position: absolute;
+    left: 305px;
+    top: 95px;
+    z-index: 94;
+}
+
+.close{
+    position: absolute;
+    left: 390px;
+    top: 180px;
+    z-index: 96;
+}
+
+.open {
+    position: absolute;
+    left: 397px;
+    top: 280px;
+    z-index: 97;
+}
+
+.tom{
+    position: absolute;
+    left: 325px;
+    top: 257px;
+    z-index: 97;
+}

@@ -1,5 +1,5 @@
 var sound = new Howl({
-    src: ['drums2.mp3','drums2.webm'],
+    src: ['drums2.mp3', 'drums2.webm'],
     sprite: {
         "close": [
             0,

@@ -46,7 +46,7 @@
     z-index: 94;
 }
 
-.close{
+.close {
     position: absolute;
     left: 390px;
     top: 180px;
@@ -60,7 +60,7 @@
     z-index: 97;
 }
 
-.tom{
+.tom {
     position: absolute;
     left: 325px;
     top: 257px;
